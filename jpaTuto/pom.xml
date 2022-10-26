@@ -20,7 +20,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>3.8.1</version>
+      <version>4.13.2</version>
       <scope>test</scope>
     </dependency>
     <dependency>
@@ -37,6 +37,16 @@
       <groupId>org.postgresql</groupId>
       <artifactId>postgresql</artifactId>
       <version>42.5.0</version>
+    </dependency>
+    <dependency>
+      <groupId>net.xdob.h2db</groupId>
+      <artifactId>h2</artifactId>
+      <version>2.0.0</version>
+    </dependency>
+    <dependency>
+      <groupId>com.eventsourcing</groupId>
+      <artifactId>h2</artifactId>
+      <version>1.4.192</version>
     </dependency>
 
   </dependencies>
