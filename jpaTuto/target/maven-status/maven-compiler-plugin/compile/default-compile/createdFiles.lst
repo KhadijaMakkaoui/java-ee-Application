@@ -1,2 +1,7 @@
+org\tuto\model\CreateStudent.class
+org\tuto\model\DeleteStudent.class
 org\tuto\App.class
+org\tuto\model\StudentRepository.class
 org\tuto\model\Student.class
+org\tuto\model\UpdateStudent.class
+org\tuto\model\FindStudent.class
